@@ -1,8 +1,10 @@
 # P5js resources for UDK students workshop
 
-## Miro Board
-
+## Miro Boards 
+https://miro.com/app/board/uXjVLZxLtWg=/?share_link_id=508579562875
+course miro board. prompts, syllabus and inspiration (p.w. blablabla)
 https://miro.com/app/board/uXjVNsOO4xI=/?share_link_id=663892784436
+(p.w. blablabla)
 
 ## Engines
 - 
