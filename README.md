@@ -27,11 +27,12 @@ research - focused
 
 ## Useful links for learning p5js 
 - https://p5js.org/ (p5js homepage)
-- https://andreasref.github.io/p5js/ (main exersice for workshop)
+- https://andreasref.github.io/p5js/ (basic exersice for drawing with code)
 - https://nycdoe-cs4all.github.io/index.html (nice course)
 - https://processing.org/ (processing homepage)
 - https://www.codecademy.com/learn/learn-p5js (Also nice course)
 - http://wykhuh.github.io/shiffman-p5-tutorials/ Amazing guide  with youtube channel https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw
+- https://thecodingtrain.com/ - Shiffman's website. especially see the Beginners guide to ML in JavaScript. Wow!
 Don't forget your mama and papa: Google and ChatGPT!
 
 ## Books / papers
