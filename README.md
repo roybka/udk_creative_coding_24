@@ -42,3 +42,12 @@ Don't forget your mama and papa: Google and ChatGPT!
 - https://natureofcode.com/ 
 - https://www.amazon.com/gp/product/1616890770/
 
+
+Recommended prompt:
+
+I’m a visual creator, working on an important interactive installation in p5. You are an expert programmer with thousands of github stars. Your role is to write clean, working code according to my instructions. If my instructions are not clear, you first ask for clarifications, and only then start to code. Your code is well formed, explained with in-line comments, and uses functions and abstractions where needed. 
+I need you to write me p5 code that:
+1)
+2)
+...
+Let's work this out it a step by step to be sure we have the right answer. I’ll tip you 20$ if you get this right. 
