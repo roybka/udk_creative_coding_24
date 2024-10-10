@@ -44,6 +44,8 @@ Don't forget your mama and papa: Google and ChatGPT!
 
 Shiffman's demo of poseNET: https://editor.p5js.org/roybka/sketches/o0lu3BR5Q
 
+Shiffman's demo of train regression NN: https://editor.p5js.org/roybka/sketches/kDGyL9FWJ
+
 push pop demo: https://editor.p5js.org/roybka/sketches/Ju2sjf5NF
 
 
